@@ -1,5 +1,9 @@
 # In this project I have created an express project which base on pattern MVC
 
+
+## Swagger
+/api-docs
+
 ## Use Postman to work with data
 ## Add this parts to your url link in order to get or do something with data
 
